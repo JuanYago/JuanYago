@@ -2,7 +2,7 @@
   
 
 
-<p align="left">Meu nome é Juan Yago e estou entusiasmado em me candidatar para alguma vaga de estágio em programação. Acredito firmemente que minha paixão pela tecnologia e meu conhecimento em programação me tornam um candidato ideal para colaborar com a equipe e contribuir para o sucesso da empresa.
+<p align="left">Meu nome é Juan Yago e estou entusiasmado em me candidatar para alguma vaga em programação. Acredito firmemente que minha paixão pela tecnologia e meu conhecimento em programação me tornam um candidato ideal para colaborar com a equipe e contribuir para o sucesso da empresa.
 
 Atualmente, estou cursando ADS na Vincit e fazendo o curso full stack developer da OneBitCode, onde tenho me dedicado a aprimorar minhas habilidades em programação. Durante meus estudos, adquiri conhecimentos sólidos em linguagens de programação como HTML,CSS,Bootstrap,TawindsCSS,React,Javascript e Typescript e tenho experiência em desenvolvimento de projetos práticos reais como o projeto da empresa Desbravalink, no qual atualmente estou como freelancer, utilizando metodologias ágeis.</p>
 <h3>tenho experiencia em:</h3>
