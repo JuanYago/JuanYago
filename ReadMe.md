@@ -2,8 +2,7 @@
   
 
 
-<p align="left">Estou entusiasmado para entrar na minha primeira vaga de estagio em programação/TI. Acredito firmemente que minha paixão pela tecnologia e meu conhecimento em programação me tornam um candidato ideal para colaborar com a equipe e contribuir para o sucesso da empresa.
-
+<p align="left">
 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Vincit e participando do curso Full Stack Developer da OneBitCode. Minha dedicação a esses estudos tem proporcionado um aprimoramento constante das minhas habilidades em programação. Ao longo do curso, adquiri conhecimentos sólidos em linguagens como HTML, CSS, Bootstrap, Tailwind CSS, React, JavaScript e TypeScript.No back-end, tenho estudado Next.js,Node.js e banco de dados MySQL e MongoDB
 
 Além da minha formação acadêmica, busco aplicar meus conhecimentos em projetos práticos. Atualmente, atuo como voluntario no projeto da empresa Desbravalink/Beeework, onde venho desenvolvendo minhas habilidades utilizando metodologias ágeis. Essa experiência prática tem me proporcionado uma compreensão mais profunda do ciclo de vida de desenvolvimento de software e a capacidade de trabalhar de maneira eficiente em equipes multidisciplinares.</p>
